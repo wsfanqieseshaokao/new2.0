@@ -1,5 +1,5 @@
-Python 3.8.x
-Streamlit 0.86.0
-joblib 1.0.1
-Pandas 1.1.5
-Scikit-learn 0.24.1
+Python==3.8.x
+Streamlit==0.86.0
+joblib==1.0.1
+Pandas==1.1.5
+Scikit-learn==0.24.1
