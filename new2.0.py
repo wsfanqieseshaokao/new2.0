@@ -1,5 +1,4 @@
 import streamlit as st
-import joblib
 import pandas as pd
 
 # 加载模型
