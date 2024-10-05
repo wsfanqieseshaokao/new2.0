@@ -1,6 +1,6 @@
 
 Streamlit==0.86.0
-joblib==1.0.1
+joblib==1.1.1
 Pandas==1.1.6
 Scikit-learn==0.24.1
 
